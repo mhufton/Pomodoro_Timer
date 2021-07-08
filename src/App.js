@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Pomodoro from "./pomodoro/Pomodoro";
+import Pomodoro from "./Pomodoro";
 
 function App() {
   return (
